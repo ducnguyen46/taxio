@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85756233401",
+    "firebase_url": "https://ducnn-taxio-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ducnn-taxio",
+    "storage_bucket": "ducnn-taxio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85756233401:android:9a0988b926e18e09f17d68",
+        "android_client_info": {
+          "package_name": "com.ducnguyen46.taxio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85756233401-9aen8rvd3g6av9p96n1tpmcpdbo9jfqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYtetpEv9AKuZLs6p4poQdDvsdCZLjOGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85756233401-9aen8rvd3g6av9p96n1tpmcpdbo9jfqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
